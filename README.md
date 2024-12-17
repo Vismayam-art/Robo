@@ -15,7 +15,6 @@
  <br>
  <br>
  
-
  <h3>I'm learning wed development as i'm passionate about technology and innovation. I want to build websites and applications<br>
 it's challenging but rewarding field that combines creativity and problem-solving . I'm exicited to continue expanding my skills <br>with the team.</h3>
 <br>
